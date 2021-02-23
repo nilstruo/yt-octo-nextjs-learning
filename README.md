@@ -1,4 +1,8 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Next.js Learning - YouTube 
+
+This is a series of learning where we will explore JAMStack based development through Next.js - a product from Vercel.
+
+https://youtube.com/playlist?list=PL6ZVVn-iNlmH6BVxMduToW4d4QWy2u2G_
 
 ## Getting Started
 
@@ -11,8 +15,6 @@ yarn dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
 ## Learn More
 
